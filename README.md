@@ -119,4 +119,5 @@ This repository is meant to demonstrate:
 - Automation mindset
 - Attention to real-world constraints (ATS systems)
 
+Resume content is provided as sample data and can be replaced with user-specific content.
 It is not intended to be a resume template for non-technical users.
