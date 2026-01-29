@@ -11,7 +11,7 @@ OUTPUT_PDF = "generated-resume.pdf"
 # -----------------------------
 NAME = "DAVID LUTCHMAN"
 LOCATION_LINE = "Maraval, Trinidad & Tobago"
-CONTACT_LINE = "(868) 687-6800 | dlutchman@gmail.com | linkedin.com/in/dlutchman"
+CONTACT_LINE = "(XXX) XXX-XXXX | yourname@domain.com | linkedin.com/in/dlutchman"
 TITLE = "Network Security / Infrastructure Engineer (Tier 2/3 Support, Hospitality, Retail, Financial Sector)"
 
 SUMMARY = (
@@ -245,4 +245,5 @@ def build_pdf(path):
 if __name__ == "__main__":
     build_pdf(OUTPUT_PDF)
     print(f"Generated: {OUTPUT_PDF}")
+
 
