@@ -72,7 +72,7 @@ python generate_resume.py
 python3 generate_resume.py
 
 The output file will be created in the project directory:
-david-lutchman-2026.pdf
+generated-resume.pdf
 
 ---
 
