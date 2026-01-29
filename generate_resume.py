@@ -4,7 +4,7 @@ from reportlab.lib.units import inch
 from reportlab.pdfbase.pdfmetrics import stringWidth
 from datetime import date
 
-OUTPUT_PDF = "david-lutchman-2026.pdf"
+OUTPUT_PDF = "generated-resume.pdf"
 
 # -----------------------------
 # RESUME CONTENT
@@ -245,3 +245,4 @@ def build_pdf(path):
 if __name__ == "__main__":
     build_pdf(OUTPUT_PDF)
     print(f"Generated: {OUTPUT_PDF}")
+
